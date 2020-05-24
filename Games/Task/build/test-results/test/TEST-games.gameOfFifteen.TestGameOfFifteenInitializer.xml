@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="games.gameOfFifteen.TestGameOfFifteenInitializer" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-04-12T09:42:13" hostname="Nipun" time="0.006">
+  <properties/>
+  <testcase name="testInitialPermutationIsEven" classname="games.gameOfFifteen.TestGameOfFifteenInitializer" time="0.005"/>
+  <testcase name="testInitialPermutationIsNotTrivial" classname="games.gameOfFifteen.TestGameOfFifteenInitializer" time="0.001"/>
+  <system-out><![CDATA[9
+14
+4
+12
+11
+7
+10
+3
+6
+2
+13
+8
+9
+14
+4
+12
+11
+7
+10
+3
+6
+2
+13
+8
+12
+5
+11
+13
+9
+8
+7
+10
+3
+6
+1
+14
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
